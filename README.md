@@ -28,3 +28,18 @@
 ║               Created by: GORDON                 ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
+
+## 📦 **التثبيت السريع**
+
+### **للكمبيوتر:**
+```bash
+git clone https://github.com/YOUR-USERNAME/gordon-tool.git
+cd gordon-tool
+pip install -r requirements.txt
+python gordon_hellfire.py
+for termux
+pkg install python git -y
+git clone https://github.com/YOUR-USERNAME/gordon-tool.git
+cd gordon-tool
+pip install requests
+python gordon_hellfire.py
